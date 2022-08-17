@@ -1,0 +1,15 @@
+Assessment: Write a program that will allow storing and updating teacher data .
+
+I have made a console menu driven code which performs following operations:
+1.View Teacher Data
+2.Add Teacher Data
+3.Update Teacher Data
+4.Delete Teacher Data
+
+Here I have used list data structure which can add,update and remove data dynamically. 
+
+I have added 3 Teacher Data respectively. 
+1.View Teacher Data : This function displays data
+2.Add Teacher Data: This function adds ID,Name,Class and Section of the Teacher 
+3.Update Teacher Data: This function Updates the name of Teacher.
+4.Delete Teacher Data: This function Deletes the individual Teacher data.
